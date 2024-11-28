@@ -16,8 +16,8 @@ The dataset used for this project, _datasetunicef2.csv_, includes the features s
    - Imported the dataset into a Pandas DataFrame.
      
 2. Data Exploration and Cleaning
-   - Missing Values: Identified missing values in the dataset and dropped rows with any missing data using the dropna() function.
-   - Data Conversion: Converted the Population (Total) column to numeric format using pd.to_numeric() to ensure accurate analysis.
+   - Missing Values: Identified missing values in the dataset and dropped rows with any missing data using the ```dropna()``` function.
+   - Data Conversion: Converted the Population (Total) column to numeric format using ```pd.to_numeric()``` to ensure accurate analysis.
 
 3. Data Analysis
    - Correlation Analysis: Computed the correlation matrix for numerical columns to identify relationships between variables like GDP, life expectancy, and population.
