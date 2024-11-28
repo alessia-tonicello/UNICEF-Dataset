@@ -49,7 +49,7 @@ The script will generate the following outputs:
 - Bar plots displaying the top and bottom 3 countries by GDP and life expectancy.
 - A boxplot comparing the dependency ratios.
 
-##Technologies Used
+## Technologies Used
 - **Python**: For data manipulation and analysis.
 - **Pandas**:: For data cleaning and manipulation.
 - **Matplotlib**: For visualizations like bar plots and heatmaps.
